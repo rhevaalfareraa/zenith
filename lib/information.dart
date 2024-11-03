@@ -61,6 +61,7 @@ class _InformationPageState extends State<InformationPage> {
                   messages[_currentIndex],
                   style: const TextStyle(
                     fontSize: 28,
+                    fontFamily: 'Poppins',
                     fontWeight: FontWeight.bold,
                     color: Colors.white,
                   ),
